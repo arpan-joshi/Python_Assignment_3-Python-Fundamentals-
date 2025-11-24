@@ -29,9 +29,3 @@ This module dives deep into Python Data Structures. I learned how to store, acce
 * *Properties:* Unordered collections with no duplicate elements.
 * *Set Operations:* Union, Intersection, Difference, and Symmetric Difference.
 
-## 🧠 Practice Problems
-This folder contains solutions to the comprehensive practice set (Parts A, B, & C), which combine these data structures to solve real-world logic puzzles.
-
-## 🚀 How to Run
-Navigate to this folder and run the specific file:
-python practice_problems.py
